@@ -1,0 +1,6 @@
+C:\Users\cleme\OneDrive\Documents\COURS\dsSlam\ds\obj\x86\Debug\ds.csprojResolveAssemblyReference.cache
+C:\Users\cleme\OneDrive\Documents\COURS\dsSlam\ds\obj\x86\Debug\ds.csproj.CoreCompileInputs.cache
+C:\Users\cleme\OneDrive\Documents\COURS\dsSlam\ds\bin\Debug\ds.exe
+C:\Users\cleme\OneDrive\Documents\COURS\dsSlam\ds\bin\Debug\ds.pdb
+C:\Users\cleme\OneDrive\Documents\COURS\dsSlam\ds\obj\x86\Debug\ds.exe
+C:\Users\cleme\OneDrive\Documents\COURS\dsSlam\ds\obj\x86\Debug\ds.pdb
