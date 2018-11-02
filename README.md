@@ -1,4 +1,4 @@
-# DS1Slam5
+# Triathlon
   -Getion de classe
   -Methodes
   -Constructeurs
