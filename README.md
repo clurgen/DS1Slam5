@@ -11,4 +11,4 @@
 
 |Développement                                         |Langages |Technique de programmation                           |
 |------------------------------------------------------|:-------:|----------------------------------------------------:|
-|Créer des methodes adaptés à des demandes specifiques |C#,      |Programmation procédural                             |
+|Créer des methodes adaptés à des demandes specifiques |C#       |Programmation procédural                             |
