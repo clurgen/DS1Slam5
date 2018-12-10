@@ -7,7 +7,7 @@
   >Constructeurs
   >Accesseurs/Mutateurs
 
-**Le dévoppement tourne autour de la mise en place de methodes adaptés à l'épreuve de Triathlon:**
+**Le développement tourne autour de la mise en place de methodes adaptés à l'épreuve de Triathlon:**
 
 |Développement                                         |Langages |Technique de programmation                           |
 |------------------------------------------------------|:-------:|----------------------------------------------------:|
