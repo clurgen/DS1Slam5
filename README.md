@@ -1,6 +1,6 @@
 # Triathlon
   **Présentation du projet :**
->Le but est de réaliser un programme C# qui permet de Consulter et mettre à jour des participants, des resultats et des epreuves a une epreuves de Triathlon via C#
+>Le but est de réaliser un programme C# qui permet de consulter et mettre à jour des participants, des resultats et des épreuves a une compétition de Triathlon via C#
 
   >Getion de classe
   >Methodes
@@ -11,4 +11,4 @@
 
 |Développement                                         |Langages |Technique de programmation                           |
 |------------------------------------------------------|:-------:|----------------------------------------------------:|
-|Créer des methodes adaptés à des demandes specifiques |C#       |Programmation procédural                             |
+|Créer des methodes adaptées à des demandes specifiques |C#      |Programmation procédural                             |
